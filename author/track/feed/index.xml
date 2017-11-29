@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>track &#8211; trackshipping</title>
+	<atom:link href="https://troop-design.github.io/topshipping/author/track/feed/" rel="self" type="application/rss+xml" />
+	<link>https://troop-design.github.io/topshipping</link>
+	<description>En nog een WordPress site</description>
+	<lastBuildDate>Wed, 29 Nov 2017 09:51:48 +0000</lastBuildDate>
+	<language>nl</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>Hallo wereld.</title>
+		<link>https://troop-design.github.io/topshipping/2017/11/29/hallo-wereld/</link>
+		<comments>https://troop-design.github.io/topshipping/2017/11/29/hallo-wereld/#comments</comments>
+		<pubDate>Wed, 29 Nov 2017 09:51:48 +0000</pubDate>
+		<dc:creator><![CDATA[track]]></dc:creator>
+				<category><![CDATA[Geen categorie]]></category>
+
+		<guid isPermaLink="false">https://troop-design.github.io/topshipping/?p=1</guid>
+		<description><![CDATA[Welkom bij WordPress. Dit is je eerste bericht. Pas het aan of verwijder het en start met bloggen.]]></description>
+				<content:encoded><![CDATA[<p>Welkom bij WordPress. Dit is je eerste bericht. Pas het aan of verwijder het en start met bloggen.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://troop-design.github.io/topshipping/2017/11/29/hallo-wereld/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

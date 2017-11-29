@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Reacties voor trackshipping</title>
+	<atom:link href="https://troop-design.github.io/topshipping/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://troop-design.github.io/topshipping</link>
+	<description>En nog een WordPress site</description>
+	<lastBuildDate>Wed, 29 Nov 2017 09:51:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>Reactie op Hallo wereld. door Een WordPress commentator</title>
+		<link>https://troop-design.github.io/topshipping/2017/11/29/hallo-wereld/#comment-1</link>
+		<dc:creator><![CDATA[Een WordPress commentator]]></dc:creator>
+		<pubDate>Wed, 29 Nov 2017 09:51:48 +0000</pubDate>
+		<guid isPermaLink="false">https://troop-design.github.io/topshipping/?p=1#comment-1</guid>
+		<description><![CDATA[Hoi, dit is een reactie.
+Om te beginnen met beheren, bewerken en verwijderen van reacties, ga je naar het Reacties scherm op het dashboard.
+Avatars van auteurs komen van &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Hoi, dit is een reactie.<br />
+Om te beginnen met beheren, bewerken en verwijderen van reacties, ga je naar het Reacties scherm op het dashboard.<br />
+Avatars van auteurs komen van <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
